@@ -1,0 +1,32 @@
+#searchBus{
+   height: 15vh;
+   display: flex;
+   background-color: gainsboro;
+   justify-content: center;
+   align-items: center;
+   
+}
+#source,#destination{
+    width: 25vw;
+    height: 8vh;
+    border-color: white;
+    border-radius: 5px;
+    
+}
+#trvldate{
+    height: 8vh;
+    margin-left: 3vw;
+    border-color: white;
+    border-radius: 5px;
+}
+
+
+#btn{
+    margin-top: 1.5vh;
+    width: 13vw;
+    height: 5vh;
+    border-radius: 5px;
+    border-color: white;
+    background-color: red;
+    color: white;
+}

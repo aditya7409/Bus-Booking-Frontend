@@ -1,0 +1,17 @@
+#busSchedule{
+    margin-top: 10vh;
+}
+#label{
+    margin-right: 5vw;
+    font-weight: bold;
+}
+#busId{
+    margin-right: 2vw;
+}
+#btnn{
+    background-color: green;
+    color:white;
+}
+#hding{
+    margin-top: 2vh;
+}
